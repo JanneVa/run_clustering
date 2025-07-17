@@ -2,7 +2,7 @@ from run_clustering import run_clustering
 
 def main():
     # Parámetros de entrada
-    image_path = "IC/monet1.png"
+    image_path = "monet1.png"
     max_depth = 5
 
     print("🔍 Starting hierarchical K-means clustering...")
