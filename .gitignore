@@ -1,0 +1,7 @@
+__pycache__/
+outputs/
+*.gif
+*.png
+*.jpg
+*.pdf
+.DS_Store
